@@ -48,6 +48,14 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 </div>
 
+<a href="https://github.com/mdrakibgolder">
+  <img src="https://streak-stats.demolab.com/?user=mdrakibgolder&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</a>
+
+</div>
+
+<div align="center">
+
 ---
 
 ## 🛠️ Tech Stack
