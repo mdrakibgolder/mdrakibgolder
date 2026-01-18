@@ -13,6 +13,10 @@
   
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Welcome" width="600"/>
+</div>
+
 ## 🚀 About Me
 
 I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, currently pursuing a dual degree at **SEGi University, Malaysia** in collaboration with **University of Central Lancashire (UCLan)**. With expertise in **.NET development, Android applications, and cloud-native architectures**, I focus on creating reliable, scalable software solutions. Currently exploring **AI/ML integration** and **cloud computing** to build innovative solutions for real-world problems.
@@ -89,18 +93,44 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 - **E-Commerce Microservices** - Scalable .NET Core architecture
 - **Mobile Health App** - Flutter-based patient monitoring system
 
-### **🌟 Highlights**
-```bash
-📦 Project Structure:
-├── 📱 Mobile Development
-│   ├── Android Apps (Kotlin/Java)
-│   └── Cross-platform (Flutter)
-├── 🌐 Web Applications
-│   ├── Frontend (React/TypeScript)
-│   └── Backend (.NET Core/Node.js)
-├── ☁️ Cloud & DevOps
-│   ├── AWS Services
-│   └── CI/CD Pipelines
-└── 🤖 AI/ML Projects
-    ├── Python ML Models
-    └── TensorFlow Implementations
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing new technologies, or just having a chat about software development and innovation. Feel free to reach out!
+
+<p align="center">
+  <a href="https://paypal.me/MDRakibGolder">
+    <img src="https://img.shields.io/badge/Support_My_Work-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mdrakibgolder/mdrakibgolder/output/snake.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mdrakibgolder/count.svg" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</div>
