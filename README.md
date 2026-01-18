@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MD%20RAKIB%20GOLDER&fontSize=90&fontAlign=50&fontAlignY=38&desc=Crafting%20Tomorrow's%20Technology%20Today&descAlign=50&descAlignY=51&animation=twinkling&fontColor=fff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MD%20RAKIB%20GOLDER&fontSize=90&fontAlign=50&fontAlignY=38&desc=Crafting%20Tomorrow's%20Technology%20Today&descAlign=50&descAlignY=60&animation=twinkling&fontColor=fff)
   
 </div>
 
