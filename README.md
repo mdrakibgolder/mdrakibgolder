@@ -27,14 +27,14 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibgolder&theme=nightowl&hide_border=true" alt="GitHub Streak" height="165" />
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibgolder&theme=nightowl&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdrakibgolder&theme=nightowl&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165" />
   <img src="https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=nightowl&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" height="165" />
   
 </div>
