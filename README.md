@@ -27,7 +27,7 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrakibgolder&theme=nightowl&hide_border=true" alt="GitHub Streak" height="165" />
   
 </div>
@@ -93,18 +93,10 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 - **E-Commerce Microservices** - Scalable .NET Core architecture
 - **Mobile Health App** - Flutter-based patient monitoring system
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 💡 Random Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl" alt="Dev Quote"/>
 </div>
 
 ---
