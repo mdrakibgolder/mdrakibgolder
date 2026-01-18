@@ -113,11 +113,15 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
-  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎯 Key Milestones
+
+🌟 **Active Contributor** | 💻 **Multi-Language Developer** | 🚀 **Open Source Enthusiast**
+
+📚 **Dual Degree Student** | ☁️ **Cloud Architecture Explorer** | 🤖 **AI/ML Learner**
 
 </div>
 
