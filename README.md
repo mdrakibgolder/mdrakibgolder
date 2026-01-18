@@ -23,23 +23,30 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 **🎯 Career Vision:** To evolve into a **Software Architect** specializing in ethical, impactful technology solutions that solve complex problems at scale.
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&hide_border=true)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=mdrakibgolder&theme=nightowl&hide_border=true)
-  
+
+### 🔥 Contribution Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdrakibgolder&color=blueviolet&style=for-the-badge)
+
 </div>
 
 <div align="center">
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibgolder&theme=nightowl&hide_border=true&layout=compact&langs_count=8)
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=nightowl&no-frame=true&no-bg=true&margin-w=15&row=2&column=3)
-  
+
+**📈 Total Contributions** | **⭐ Total Stars** | **🔱 Repositories**
+
+Check out my [GitHub Profile](https://github.com/mdrakibgolder) for live statistics and recent activity!
+
 </div>
+
+### 💻 Most Used Languages
+```text
+C#           ████████████░░░░░░░░░   60%
+Java         ██████░░░░░░░░░░░░░░░   30%
+Python       ██░░░░░░░░░░░░░░░░░░░   10%
+```
 
 ## 🛠️ Tech Stack
 
