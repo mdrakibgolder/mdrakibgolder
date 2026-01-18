@@ -33,28 +33,25 @@ I'm a passionate **Software Engineering** undergraduate from **Bangladesh**, cur
 
 <div align="center">
 
-### 📈 Contribution Stats
+### 📈 GitHub Streak
 
 <a href="https://github.com/mdrakibgolder">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mdrakibgolder&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mdrakibgolder&layout=compact&langs_count=8&theme=nightowl&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mdrakibgolder&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mdrakibgolder&theme=nightowl&hide_border=true)
+### 💻 Development Focus
+
+**Primary Technologies:** .NET • Java • Python • Android • Cloud Architecture
+
+**Current Learning:** AI/ML Integration • Microservices • Kubernetes
+
+**Visit my profile:** [github.com/mdrakibgolder](https://github.com/mdrakibgolder)
 
 </div>
-
-<a href="https://github.com/mdrakibgolder">
-  <img src="https://streak-stats.demolab.com/?user=mdrakibgolder&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<div align="center">
 
 ---
 
