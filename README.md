@@ -59,15 +59,15 @@ I enjoy learning through **project-based development**, problem-solving, and con
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marakibgolder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=marakibgolder&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marakibgolder&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdrakibgolder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mdrakibgolder&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrakibgolder&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=marakibgolder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mdrakibgolder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -84,13 +84,13 @@ I enjoy learning through **project-based development**, problem-solving, and con
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marakibgolder/marakibgolder/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mdrakibgolder/mdrakibgolder/output/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marakibgolder/marakibgolder/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/mdrakibgolder/mdrakibgolder/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/marakibgolder/count.svg" alt="Profile Counter" />
+  <img src="https://profile-counter.glitch.me/mdrakibgolder/count.svg" alt="Profile Counter" />
 </div>
