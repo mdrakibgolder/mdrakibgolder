@@ -277,9 +277,6 @@ Security & Performance:
   - Rate limiting & Redis caching
   - Bcrypt password hashing
   - Helmet, CORS, compression middleware
-
-Purpose:
-  MediCore helps patients track medications, monitor vitals, get AI-guided health advice, and quickly access emergency help, all in a secure, user-friendly mobile app.
 ```
 
 **Impact:** Supporting 100K+ users
