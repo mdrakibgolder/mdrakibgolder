@@ -55,8 +55,8 @@ class SoftwareEngineer {
         backend: [".NET Core", "Node.js", "RESTful APIs", "Microservices"],
         frontend: ["React", "JavaScript", "TypeScript", "Modern UI/UX"],
         mobile: ["Android (Java/Kotlin)", "Flutter", "Cross-platform"],
-        cloud: ["AWS", "Google Cloud", "Docker", "Kubernetes"],
-        databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"],
+        cloud: ["Microsoft Azure", "Google Cloud", "Docker", "AWS"],
+        databases: ["MSSQL", "MySQL", "PostgreSQL", "Firebase"],
         ai_ml: ["Machine Learning", "AI Integration", "Data Analytics"]
     };
     
@@ -86,14 +86,12 @@ class SoftwareEngineer {
 
 ### 💻 Languages I Speak (Fluently)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,7 +102,6 @@ class SoftwareEngineer {
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -115,7 +112,6 @@ class SoftwareEngineer {
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🗄️ Database Wizardry
@@ -163,22 +159,61 @@ class SoftwareEngineer {
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Smart Gateway
-**Enterprise-Grade API Management System**
+### 📱 MuslimMate – AI-Powered Islamic Companion (Final Year Project)
+**An Intelligent Mobile Application for Daily Islamic Practice, Guidance & Community Learning**
 ```yaml
-Tech Stack:
-  Backend: .NET Core 8, C#
-  Cloud: AWS (Lambda, API Gateway, S3)
-  Container: Docker, Kubernetes
-  AI: Machine Learning Models
-  Database: PostgreSQL, Redis
+Project Type: Final Year Project (Software Engineering)
+Institution: SEGi University (Dual Degree with UCLan)
+Platform: Cross-Platform Mobile Application (Android & iOS)
+Architecture: MVVM + Hybrid AI (RAG-based)
 
-Features:
-  ✨ Intelligent request routing
-  ⚡ Auto-scaling & load balancing
-  🔒 Advanced security & auth
-  📊 Real-time analytics dashboard
-  🎯 99.99% uptime guaranteed
+🧠 Tech Stack
+Language: C#
+Framework: .NET MAUI, Blazor Hybrid
+Backend Services: RESTful APIs
+Database: SQLite, JSON, Local Storage
+AI: Retrieval-Augmented Generation (NLP Assistant)
+AI Models: OpenAI API + Local LLM (Ollama)
+Authentication: Secure User Login & Session Management
+Tools: Visual Studio 2022, GitHub, Postman
+
+✨ Key Features
+🕌 Smart Prayer Time System
+   - Automatic location-based prayer calculation
+   - Multiple Islamic calculation methods
+   - Offline support
+
+📖 AI Islamic Question-Answer Assistant
+   - Ask any Islamic question in natural language
+   - Answers based on Qur’an & Sahih Hadith
+   - Provides references (citations) for reliability
+
+📅 Islamic Calendar & Reminders
+   - Hijri ↔ Gregorian conversion
+   - Ramadan, Eid, and Islamic event notifications
+
+📊 Worship Tracker
+   - Salah tracking & daily consistency monitoring
+   - Fasting tracking and spiritual progress analytics
+
+🎥 Halal Motivational Video Feed
+   - Community-based Islamic short videos
+   - Admin moderation system
+   - Safe and positive learning environment
+
+🚀 Technical Highlights
+• Retrieval-Augmented Generation (RAG) architecture
+• Hybrid AI (Cloud + Local model for privacy)
+• Offline-capable mobile design
+• Fast response intelligent assistant
+• Secure and scalable mobile architecture
+
+🎯 Impact & Contribution
+✔ Provides reliable Islamic guidance using verified sources
+✔ Reduces misinformation from general AI chatbots
+✔ Encourages daily religious practice & consistency
+✔ Builds a positive Islamic digital community
+✔ Educational support for new Muslims & students
 ```
 
 **Impact:** Handles 1M+ requests daily
@@ -186,22 +221,65 @@ Features:
 </td>
 <td width="50%" valign="top">
 
-### 🛒 Cloud-Native E-Commerce
-**Next-Gen Microservices Platform**
+### 🏥 MediCore — AI-Powered Health Platform
+**Comprehensive Patient-Centric Mobile Health Application**
 ```yaml
 Tech Stack:
-  Architecture: Microservices
-  Backend: C#, .NET, Node.js
-  Frontend: React, TypeScript
-  Database: MongoDB, MySQL
-  DevOps: K8s, Docker, CI/CD
+  Frontend: Flutter 3.2+ (Android & iOS)
+  Backend: Node.js 20 + Express
+  AI: OpenAI GPT-4
+  Database: PostgreSQL 16
+  Cache: Redis 7
+  Deployment: Docker + Nginx
+  APIs: RESTful + WebSocket (real-time)
 
-Features:
-  🚀 Highly scalable architecture
-  💳 Secure payment integration
-  📦 Real-time inventory management
-  🔍 AI-powered recommendations
-  📱 Mobile-first design
+Core Features:
+  💊 Smart Medicine Management:
+    - Full-text medicine search (10,000+)
+    - Barcode scanner for instant identification
+    - Drug interaction checker
+    - Smart medication reminders
+    - Adherence analytics with visual reports
+
+  🤖 AI Health Assistant:
+    - GPT-4 powered conversational assistant
+    - Symptom checker with severity/duration analysis
+    - Personalized context (conditions, medications, vitals)
+    - Medicine explanations in plain language
+    - Searchable conversation history
+
+  📊 Health Tracking & Analytics:
+    - Vital signs: Heart Rate, Blood Pressure, Temperature, Blood Sugar, SpO2, Weight
+    - Trend charts & interactive visuals
+    - Health score calculation
+    - Smart alerts for abnormal readings
+
+  🏥 Appointments & Doctors:
+    - Doctor discovery & filtering
+    - Smart appointment booking
+    - Rating & review system
+    - Appointment history & status tracking
+
+  🚨 Emergency Services:
+    - SOS long-press alerts (real-time)
+    - Emergency contacts management
+    - First aid guides (CPR, Choking, Burns, etc.)
+    - Nearby hospitals integration (Google Maps)
+
+  👥 Community & Articles:
+    - Health posts with like/comment options
+    - Anonymous posting
+    - Curated health articles organized by category
+
+Security & Performance:
+  - JWT access + refresh tokens
+  - Role-based access control
+  - Rate limiting & Redis caching
+  - Bcrypt password hashing
+  - Helmet, CORS, compression middleware
+
+Purpose:
+  MediCore helps patients track medications, monitor vitals, get AI-guided health advice, and quickly access emergency help, all in a secure, user-friendly mobile app.
 ```
 
 **Impact:** Supporting 100K+ users
@@ -212,22 +290,22 @@ Features:
 <tr>
 <td width="50%" valign="top">
 
-### 📱 HealthTrack Mobile App
-**Smart Healthcare Companion**
+### 🤖 AI Study Companion
+**Intelligent Learning Assistant for Students**
 ```yaml
 Tech Stack:
-  Mobile: Flutter (iOS/Android)
-  Backend: Firebase, Node.js
-  AI/ML: TensorFlow Lite
-  Database: Cloud Firestore
-  APIs: RESTful, GraphQL
+  Backend: .NET 8 (C#)
+  AI: OpenAI API, NLP
+  Frontend: .NET MAUI (Android)
+  Database: SQLite
+  APIs: RESTful APIs
 
-Features:
-  🏥 Real-time health monitoring
-  📊 Advanced health analytics
-  🤖 AI symptom checker
-  💊 Medicine reminder system
-  📈 Progress tracking & insights
+Core Features:
+  📚 AI-powered notes summarization
+  ❓ Smart Q&A system from study materials
+  🧠 Concept explanation in simple language
+  📝 Flashcard generator
+  ⏰ Study planner & reminders
 ```
 
 **Impact:** Helping 10K+ patients
