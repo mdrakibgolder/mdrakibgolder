@@ -57,10 +57,8 @@ class SoftwareEngineer {
         backend: [".NET", "ASP.NET Core", "Node.js", "REST APIs"],
         frontend: ["HTML", "CSS", "React", "TypeScript"],
         mobile: [".NET MAUI", "Android Development"],
-        databases: ["SQL Server", "MySQL", "PostgreSQL", 
-                    "Firebase"],
-        ai: ["Artificial Intelligence", "Machine Learning", "RAG", 
-              "OpenAI API"],
+        databases: ["SQL Server", "MySQL", "PostgreSQL", "Firebase"],
+        ai: ["Artificial Intelligence", "Machine Learning", "RAG", "OpenAI API"],
         tools: ["Visual Studio", "Git", "GitHub", "Docker"]
     };
 
@@ -451,10 +449,10 @@ I'm always excited to work on innovative projects, contribute to open source, or
 
 ### 📬 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/md-rakib-golder-a12134156/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/mdrakibgolder/)
 [![Email](https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:marakibgolder@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/mdrakibgolder)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139)](https://mdrakibgolder.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF7139?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF7139)](https://mdrakibgolder.onrender.com/)
 
 <br>
 
@@ -469,8 +467,8 @@ I'm always excited to work on innovative projects, contribute to open source, or
 
 If you find my projects helpful or interesting, consider supporting me!
 
-[![PayPal](https://img.shields.io/badge/PayPal-Support_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/MDRakibGolder)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://paypal.me/MDRakibGolder)
+[![PayPal](https://img.shields.io/badge/PayPal-Support_Now-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=00457C)](https://paypal.me/MDRAKIBGOLDER)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FFDD00)](https://paypal.me/MDRAKIBGOLDER)
 
 </div>
 
