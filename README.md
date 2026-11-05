@@ -40,98 +40,52 @@
 ## 🚀 ABOUT ME
 ```typescript
 class SoftwareEngineer {
-    name: string = "MD Rakib Golder";
-    location: string = "🇧🇩 Bangladesh";
-    origin: string = "🇧🇩 Bangladesh";
+    name = "MD Rakib Golder";
+    location = "🇧🇩 Bangladesh";
+    origin = "🇧🇩 Bangladesh";
 
     education = {
         university: "SEGi University, Malaysia",
         partner: "University of Central Lancashire (UCLan), UK",
-        degree: "Bachelor of Information Technology (BIT)",
+        degree: "Bachelor of Information Technology",
         major: "Software Engineering",
         status: "Graduated"
     };
 
-    expertise = {
-        backend: [
-            "C#",
-            ".NET Core",
-            "ASP.NET Core",
-            "Node.js",
-            "RESTful APIs"
-        ],
-
-        frontend: [
-            "HTML5",
-            "CSS3",
-            "JavaScript",
-            "TypeScript",
-            "React",
-            "Modern UI/UX"
-        ],
-
-        mobile: [
-            ".NET MAUI",
-            "Android Development",
-            "Cross-Platform Applications"
-        ],
-
-        cloud_devops: [
-            "Microsoft Azure",
-            "AWS",
-            "Google Cloud",
-            "Docker"
-        ],
-
-        databases: [
-            "Microsoft SQL Server",
-            "MySQL",
-            "PostgreSQL",
-            "Firebase",
-            "pgvector"
-        ],
-
-        ai_ml: [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Retrieval-Augmented Generation (RAG)",
-            "OpenAI API Integration",
-            "Ollama",
-            "Data Analytics"
-        ]
+    skills = {
+        programming: ["C#", "Python", "Java", "JavaScript"],
+        backend: [".NET", "ASP.NET Core", "Node.js", "REST APIs"],
+        frontend: ["HTML", "CSS", "React", "TypeScript"],
+        mobile: [".NET MAUI", "Android Development"],
+        databases: ["SQL Server", "MySQL", "PostgreSQL", "Firebase"],
+        ai: ["Artificial Intelligence", "Machine Learning", "RAG", "OpenAI API"],
+        tools: ["Visual Studio", "Git", "GitHub", "Docker"]
     };
 
     featuredProject = {
         name: "MuslimMate",
-        type: "AI-Powered Islamic Q&A Application",
-        architecture: "Retrieval-Augmented Generation (RAG)",
-        technologies: [
-            ".NET MAUI",
-            "OpenAI GPT",
-            "Ollama",
-            "PostgreSQL",
-            "pgvector"
-        ],
-        focus: "Authenticated, source-grounded AI responses"
+        description: "AI-powered Islamic Q&A mobile application",
+        technologies: [".NET MAUI", "OpenAI", "Ollama", "PostgreSQL"],
+        focus: "Reliable AI-powered answers using verified Islamic sources"
     };
 
-    currentFocus = [
-        "🏗️ Developing scalable, enterprise-grade applications",
-        "🤖 Integrating AI/ML into real-world solutions",
-        "🧠 Exploring Generative AI and RAG architectures",
-        "☁️ Building cloud-native applications",
-        "📱 Creating modern cross-platform experiences",
-        "🔐 Designing secure and reliable software systems"
+    interests = [
+        "🤖 Artificial Intelligence & Machine Learning",
+        "💻 Software and Application Development",
+        "📱 Cross-Platform Mobile Development",
+        "☁️ Cloud Computing",
+        "🏗️ Software Architecture",
+        "🔐 Secure and Scalable Applications"
     ];
 
     careerGoal =
-        "Become a world-class Software Architect, building " +
-        "ethical, innovative, and impactful technologies " +
-        "that transform lives globally 🌍";
+        "To become a skilled Software Architect and build " +
+        "innovative, ethical, and impactful technology " +
+        "that makes a difference in people's lives. 🌍";
 
     philosophy =
         "Code with purpose. Build with passion. " +
-        "Impact with innovation.";
+        "Create with impact.";
 }
 ```
 
