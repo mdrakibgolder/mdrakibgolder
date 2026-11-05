@@ -21,7 +21,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marakibgolder@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/marakibgolder)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@mdrakibgoldar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://mdrakibgolder.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://mdrakibgolder.github.io](https://mdrakibgolder.onrender.com/)
 
 </div>
 
@@ -41,38 +41,97 @@
 ```typescript
 class SoftwareEngineer {
     name: string = "MD Rakib Golder";
-    location: string = "🇲🇾 Kuala Lumpur, Malaysia";
+    location: string = "🇧🇩 Bangladesh";
     origin: string = "🇧🇩 Bangladesh";
-    
+
     education = {
-        university: "SEGi University",
-        partner: "University of Central Lancashire (UCLan)",
-        degree: "BSc Software Engineering",
-        status: "In Progress"
+        university: "SEGi University, Malaysia",
+        partner: "University of Central Lancashire (UCLan), UK",
+        degree: "Bachelor of Information Technology (BIT)",
+        major: "Software Engineering",
+        status: "Graduated"
     };
-    
+
     expertise = {
-        backend: [".NET Core", "Node.js", "RESTful APIs", "Microservices"],
-        frontend: ["React", "JavaScript", "TypeScript", "Modern UI/UX"],
-        mobile: ["Android (Java/Kotlin)", "Flutter", "Cross-platform"],
-        cloud: ["Microsoft Azure", "Google Cloud", "Docker", "AWS"],
-        databases: ["MSSQL", "MySQL", "PostgreSQL", "Firebase"],
-        ai_ml: ["Machine Learning", "AI Integration", "Data Analytics"]
+        backend: [
+            "C#",
+            ".NET Core",
+            "ASP.NET Core",
+            "Node.js",
+            "RESTful APIs"
+        ],
+
+        frontend: [
+            "HTML5",
+            "CSS3",
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Modern UI/UX"
+        ],
+
+        mobile: [
+            ".NET MAUI",
+            "Android Development",
+            "Cross-Platform Applications"
+        ],
+
+        cloud_devops: [
+            "Microsoft Azure",
+            "AWS",
+            "Google Cloud",
+            "Docker"
+        ],
+
+        databases: [
+            "Microsoft SQL Server",
+            "MySQL",
+            "PostgreSQL",
+            "Firebase",
+            "pgvector"
+        ],
+
+        ai_ml: [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Retrieval-Augmented Generation (RAG)",
+            "OpenAI API Integration",
+            "Ollama",
+            "Data Analytics"
+        ]
     };
-    
+
+    featuredProject = {
+        name: "MuslimMate",
+        type: "AI-Powered Islamic Q&A Application",
+        architecture: "Retrieval-Augmented Generation (RAG)",
+        technologies: [
+            ".NET MAUI",
+            "OpenAI GPT",
+            "Ollama",
+            "PostgreSQL",
+            "pgvector"
+        ],
+        focus: "Authenticated, source-grounded AI responses"
+    };
+
     currentFocus = [
-        "🏗️ Building enterprise-grade applications",
+        "🏗️ Developing scalable, enterprise-grade applications",
         "🤖 Integrating AI/ML into real-world solutions",
-        "☁️ Mastering cloud-native architectures",
-        "📱 Creating seamless mobile experiences",
-        "🔐 Implementing secure, scalable systems"
+        "🧠 Exploring Generative AI and RAG architectures",
+        "☁️ Building cloud-native applications",
+        "📱 Creating modern cross-platform experiences",
+        "🔐 Designing secure and reliable software systems"
     ];
-    
-    careerGoal = "Become a world-class Software Architect who builds " +
-                 "ethical, impactful, and revolutionary technology " +
-                 "that transforms lives globally 🌍";
-    
-    philosophy = "Code with purpose. Build with passion. Impact with innovation.";
+
+    careerGoal =
+        "Become a world-class Software Architect, building " +
+        "ethical, innovative, and impactful technologies " +
+        "that transform lives globally 🌍";
+
+    philosophy =
+        "Code with purpose. Build with passion. " +
+        "Impact with innovation.";
 }
 ```
 
