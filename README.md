@@ -57,8 +57,10 @@ class SoftwareEngineer {
         backend: [".NET", "ASP.NET Core", "Node.js", "REST APIs"],
         frontend: ["HTML", "CSS", "React", "TypeScript"],
         mobile: [".NET MAUI", "Android Development"],
-        databases: ["SQL Server", "MySQL", "PostgreSQL", "Firebase"],
-        ai: ["Artificial Intelligence", "Machine Learning", "RAG", "OpenAI API"],
+        databases: ["SQL Server", "MySQL", "PostgreSQL", 
+                    "Firebase"],
+        ai: ["Artificial Intelligence", "Machine Learning", "RAG", 
+              "OpenAI API"],
         tools: ["Visual Studio", "Git", "GitHub", "Docker"]
     };
 
